@@ -19,6 +19,8 @@ A full stack web developer from Kazakhstan, currently based in the Czech Republi
 - [Удалить ненужные файлы и освободить место на диске (Linux)](https://blog.axisful.info/snippets/linux-find-remove-unused-files)
 - [JavaScript рефакторинг: балласт в проекте и как от него избавиться](https://blog.axisful.info/webdev/javascript-remove-dead-weight)
 - [Рефакторинг. Улучшение существующего кода](https://blog.axisful.info/books-reviews/refactoring-js)
+- [JavaScript рефакторинг: удаление мёртвого кода](https://blog.axisful.info/webdev/javascript-remove-dead-code)
+- [JavaScript антипаттерны](https://blog.axisful.info/webdev/javascript-antipatterns)
 <!-- BLOG-POST-LIST:END -->
 
 
