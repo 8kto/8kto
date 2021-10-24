@@ -14,6 +14,11 @@ A full stack web developer from Kazakhstan, currently based in the Czech Republi
 
 ### The latest blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Вы не знаете JS: Асинхронность и Производительность](https://blog.axisful.info/books-reviews/you-dont-know-js-async-optimization)
+- [Бенчмарки быстро](https://blog.axisful.info/snippets/benchmarks)
+- [Удалить ненужные файлы и освободить место на диске (Linux)](https://blog.axisful.info/snippets/linux-find-remove-unused-files)
+- [JavaScript рефакторинг: балласт в проекте и как от него избавиться](https://blog.axisful.info/webdev/javascript-remove-dead-weight)
+- [Рефакторинг. Улучшение существующего кода](https://blog.axisful.info/books-reviews/refactoring-js)
 <!-- BLOG-POST-LIST:END -->
 
 
