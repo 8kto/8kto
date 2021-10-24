@@ -16,9 +16,9 @@
 
 ---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=8kto&show_icons=true&locale=en&layout=compact" alt="8kto" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=8kto&show_icons=true&locale=en&layout=compact" alt="8kto" /></p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=8kto&show_icons=true&locale=en&count_private=true&layout=compact" alt="8kto" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=8kto&show_icons=true&locale=en&count_private=true&layout=compact" alt="8kto" /></p>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=8kto&layout=compact" alt="8kto" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=8kto&layout=compact" alt="8kto" /></p>
 
