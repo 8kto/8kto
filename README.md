@@ -22,12 +22,12 @@ A full stack web developer from Kazakhstan, currently based in the Czech Republi
 <details>
 <summary>Show some badges</summary>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=8kto&show_icons=true&locale=en" alt="8kto" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=8kto&show_icons=true&locale=en&layout=compact" alt="8kto's languages" />
 
 <br />
-<img src="https://github-readme-stats.vercel.app/api?username=8kto&show_icons=true&locale=en&count_private=true&hide=stars,issues" alt="8kto" />
+<img src="https://github-readme-stats.vercel.app/api?username=8kto&show_icons=true&locale=en&count_private=true&layout=compact&hide=stars,issues" alt="8kto's GitHub stats" />
 
 <br />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=8kto&layout=compact" alt="8kto" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=8kto&layout=compact" alt="8kto's GitHub stats" />
 
 </details>
