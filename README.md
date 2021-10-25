@@ -12,7 +12,7 @@ A full stack web developer from Kazakhstan, currently based in the Czech Republi
 + ⚔️ I also like TTRPGs like __Dungeons & Dragons__ and __Mothership RPG__
 
 
-### The latest blogs posts
+### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Вы не знаете JS: Асинхронность и Производительность](https://blog.axisful.info/books-reviews/you-dont-know-js-async-optimization)
 - [Бенчмарки быстро](https://blog.axisful.info/snippets/benchmarks)
