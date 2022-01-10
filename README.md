@@ -4,15 +4,10 @@
 
 A full stack web developer from Kazakhstan, currently based in the Czech Republic.
 
-
-+ 📝 Visit my blog with random notes on Linux, web development, life and music at [https://blog.axisful.info/](https://blog.axisful.info/) (in Russian)
-
-+ 📄 I have another fancy one page website (_le portfolio_): [https://axisful.info/](https://axisful.info/)
-
-+ 🎸 In my spare time I play guitar and write music: [SoundCloud page](https://soundcloud.com/igor-okto)
-
-+ 🛸 I also like TTRPGs like __Mothership RPG__ and __Dungeons & Dragons__ (and more)
-
+⦿ Visit my blog with random notes on Linux, web development, life and music at [blog.axisful.info](https://blog.axisful.info/) (in Russian)
+⦿ I have another fancy one page website (_le portfolio_): [axisful.info](https://axisful.info/)
+⦿ In my spare time I play guitar and write music: [SoundCloud page](https://soundcloud.com/igor-okto) 🎸
+⦿ I also like TTRPGs like __Mothership RPG__🛸 and __Dungeons & Dragons__⚔️ (and more)
 
 
 ### Latest blog posts
