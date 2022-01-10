@@ -28,20 +28,15 @@ Magically scraped ✨
 ### Stats
 
 <details>
+
   <summary>Show some badges</summary>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<br />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=8kto&show_icons=true&locale=en&layout=compact" alt="8kto's languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=8kto&show_icons=true&locale=en&layout=compact&theme=buefy" alt="8kto's languages" />
 
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=8kto&show_icons=true&locale=en&count_private=true&layout=compact&hide=stars,contribs" alt="8kto's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=8kto&show_icons=true&locale=en&count_private=true&layout=compact&hide=stars,contribs,prs,issues&theme=buefy" alt="8kto's GitHub stats" />
 
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=8kto&layout=compact" alt="8kto's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=8kto&layout=compact&theme=buefy" alt="8kto's GitHub stats" />
 
 </details>
 
