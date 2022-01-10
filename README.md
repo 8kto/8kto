@@ -1,18 +1,24 @@
+![](./hero-image.png)
+
 ### Hi there, I'm Igor Ivlev
 
 A full stack web developer from Kazakhstan, currently based in the Czech Republic.
 
 
-+ 📝 I regularly write articles on [https://blog.axisful.info/](https://blog.axisful.info/) (in Russian)
++ 📝 Visit my blog with random notes on Linux, web development, life and music at [https://blog.axisful.info/](https://blog.axisful.info/) (in Russian)
 
-+ 📄 Know about my experiences: [https://axisful.info/](https://axisful.info/)
++ 📄 I have another fancy one page website (_le portfolio_): [https://axisful.info/](https://axisful.info/)
 
-+ 🎸 In my spare time I play guitar 
++ 🎸 In my spare time I play guitar and write music: [SoundCloud page](https://soundcloud.com/igor-okto)
 
-+ ⚔️ I also like TTRPGs like __Dungeons & Dragons__ and __Mothership RPG__
++ 🛸 I also like TTRPGs like __Mothership RPG__ and __Dungeons & Dragons__ (and more)
+
 
 
 ### Latest blog posts
+
+Magically scraped ✨
+
 <!-- BLOG-POST-LIST:START -->
 - [Педалборд 2021](https://blog.axisful.info/guitar/pedalboard-2021)
 - [D&amp;D: Как начать и как готовиться к играм](https://blog.axisful.info/ttrpg/dungeons-and-dragons-quick-start)
@@ -24,17 +30,22 @@ A full stack web developer from Kazakhstan, currently based in the Czech Republi
 <!-- BLOG-POST-LIST:END -->
 
 
+
 ### Stats
 
 <details>
-<summary>Show some badges</summary>
+  <summary>Show some badges</summary>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=8kto&show_icons=true&locale=en&layout=compact" alt="8kto's languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=8kto&show_icons=true&locale=en&layout=compact" alt="8kto's languages" />
 
-<br />
-<img src="https://github-readme-stats.vercel.app/api?username=8kto&show_icons=true&locale=en&count_private=true&layout=compact&hide=stars,contribs" alt="8kto's GitHub stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=8kto&show_icons=true&locale=en&count_private=true&layout=compact&hide=stars,contribs" alt="8kto's GitHub stats" />
 
-<br />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=8kto&layout=compact" alt="8kto's GitHub stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=8kto&layout=compact" alt="8kto's GitHub stats" />
 
 </details>
+
+----
+
+How to build a nice looking GitHub profile page: check [this article](https://dev.to/supritha/how-to-have-an-awesome-github-profile-1969).
