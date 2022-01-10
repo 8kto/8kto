@@ -5,10 +5,14 @@
 A full stack web developer from Kazakhstan, currently based in the Czech Republic.
 
 ⦿ Visit my blog with random notes on Linux, web development, life and music at [blog.axisful.info](https://blog.axisful.info/) (in Russian)
-⦿ I have another fancy one page website (_le portfolio_): [axisful.info](https://axisful.info/)
-⦿ In my spare time I play guitar and write music: [SoundCloud page](https://soundcloud.com/igor-okto) 🎸
-⦿ I also like TTRPGs like __Mothership RPG__🛸 and __Dungeons & Dragons__⚔️ (and more)
 
+⦿ I have another fancy one page website (_le portfolio_): [axisful.info](https://axisful.info/)
+
+⦿ In my spare time I play guitar and write music: [SoundCloud page](https://soundcloud.com/igor-okto) 🎸
+
+⦿ I also like TTRPGs like **Mothership RPG**🛸 and **Dungeons & Dragons**⚔️ (and more)
+
+<br/>
 
 ### Latest blog posts
 
@@ -24,6 +28,7 @@ Magically scraped ✨
 - [JavaScript рефакторинг: балласт в проекте и как от него избавиться](https://blog.axisful.info/webdev/javascript-remove-dead-weight)
 <!-- BLOG-POST-LIST:END -->
 
+<br/>
 
 
 ### Stats
