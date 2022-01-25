@@ -9,6 +9,7 @@ A full stack web developer from Kazakhstan, currently based in the Czech Republi
 ⦿ In my spare time I play guitar and write music: [SoundCloud page](https://soundcloud.com/igor-okto) 🎸 <br>
 ⦿ I also like TTRPGs like **Mothership RPG**🛸 and **Dungeons & Dragons**⚔️ (and more)
 
+<a href="https://www.codewars.com/users/Okto"><img src="https://www.codewars.com/users/Okto/badges/small" alt="Codewars profile" /></a>
 
 ### Latest blog posts
 
@@ -30,6 +31,7 @@ Magically scraped ✨
 <details>
 
   <summary>Show some badges</summary>
+      
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=8kto&show_icons=true&locale=en&layout=compact&theme=buefy" alt="8kto's languages" />
 
   <br />
