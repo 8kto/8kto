@@ -16,13 +16,13 @@ A full stack web developer from Kazakhstan, currently based in the Czech Republi
 Magically scraped ✨
 
 <!-- BLOG-POST-LIST:START -->
+- [Курс Kotlin + Android, обзор](https://blog.axisful.info/courses/stepik/kotlin-android)
 - [Педалборд 2021](https://blog.axisful.info/guitar/pedalboard-2021)
 - [D&amp;D: Как начать и как готовиться к играм](https://blog.axisful.info/ttrpg/dungeons-and-dragons-quick-start)
 - [Бэкап на Google Drive из консоли](https://blog.axisful.info/snippets/linux-cli-google-drive)
 - [Вы не знаете JS: Асинхронность и Производительность](https://blog.axisful.info/books-reviews/you-dont-know-js-async-optimization)
 - [Бенчмарки быстро](https://blog.axisful.info/snippets/benchmarks)
 - [Удалить ненужные файлы и освободить место на диске &lpar;Linux&rpar;](https://blog.axisful.info/snippets/linux-find-remove-unused-files)
-- [JavaScript рефакторинг: балласт в проекте и как от него избавиться](https://blog.axisful.info/webdev/javascript-remove-dead-weight)
 <!-- BLOG-POST-LIST:END -->
 
 
