@@ -17,9 +17,6 @@ Magically scraped ✨
 
 <!-- BLOG-POST-LIST:START -->
 - [Корфу 21](https://blog.axisful.info/trips/2021/greece-korfu)
-- [Корфу 2021 &lpar;2&rpar;](https://blog.axisful.info/gallery/2021/korfu-2)
-- [Корфу 2021 &lpar;1&rpar;](https://blog.axisful.info/gallery/2021/korfu-1)
-- [Custom Styles](https://blog.axisful.info/wp-global-styles-editor_okto)
 - [Думай медленно… решай быстро](https://blog.axisful.info/books-reviews/thinking-fast-and-slow)
 - [Курс Kotlin + Android, обзор](https://blog.axisful.info/courses/stepik/kotlin-android)
 - [Педалборд 2021](https://blog.axisful.info/guitar/pedalboard-2021)
