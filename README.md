@@ -16,13 +16,17 @@ A full stack web developer from Kazakhstan, currently based in the Czech Republi
 Magically scraped ✨
 
 <!-- BLOG-POST-LIST:START -->
-- [Корфу 21](https://blog.axisful.info/trips/2021/greece-korfu)
-- [Корфу 2021 &lpar;2&rpar;](https://blog.axisful.info/gallery/2021/korfu-2)
-- [Корфу 2021 &lpar;1&rpar;](https://blog.axisful.info/gallery/2021/korfu-1)
-- [Custom Styles](https://blog.axisful.info/wp-global-styles-editor_okto)
-- [Думай медленно… решай быстро](https://blog.axisful.info/books-reviews/thinking-fast-and-slow)
-- [Курс Kotlin + Android, обзор](https://blog.axisful.info/courses/stepik/kotlin-android)
-- [Педалборд 2021](https://blog.axisful.info/guitar/pedalboard-2021)
+<ul dir="auto">
+<li><a href="https://blog.axisful.info/trips/2021/greece-korfu" rel="nofollow">Корфу 21</a></li>
+<li><a href="https://blog.axisful.info/books-reviews/thinking-fast-and-slow" rel="nofollow">Думай медленно… решай быстро</a></li>
+<li><a href="https://blog.axisful.info/courses/stepik/kotlin-android" rel="nofollow">Курс Kotlin + Android, обзор</a></li>
+<li><a href="https://blog.axisful.info/guitar/pedalboard-2021" rel="nofollow">Педалборд 2021</a></li>
+<li><a href="https://blog.axisful.info/ttrpg/dungeons-and-dragons-quick-start" rel="nofollow">D&amp;D: Как начать и как готовиться к играм</a></li>
+<li><a href="https://blog.axisful.info/snippets/linux-cli-google-drive" rel="nofollow">Бэкап на Google Drive из консоли</a></li>
+<li><a href="https://blog.axisful.info/books-reviews/you-dont-know-js-async-optimization" rel="nofollow">Вы не знаете JS: Асинхронность и Производительность</a></li>
+<li><a href="https://blog.axisful.info/snippets/benchmarks" rel="nofollow">Бенчмарки быстро</a></li>
+</ul>
+
 <!-- BLOG-POST-LIST:END -->
 
 
