@@ -14,6 +14,6 @@ jobs:
       - name: Pull in Axisful blog posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-            feed_list: "https://blog.axisful.info/feed"
+            feed_list: "https://old.ivlev.blog/feed"
             max_post_count: 7
 
