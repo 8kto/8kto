@@ -6,7 +6,7 @@ A full stack web developer from Kazakhstan, currently based in the Czech Republi
 
 In my spare time I play guitar and write music: [SoundCloud page](https://soundcloud.com/igor-okto) 🎸 <be>
 
-I'm also a fan of TTRPGs such as Dungeons & Dragons (I prefer the older editions up to D&D BX), Lamentations of the Flame Princess, and Call of Cthulhu. Additionally, I develop tools to enhance the playing experience of these games. You can find these tools, along with recaps of our gaming sessions, in my repositories.
+I'm also a fan of TTRPGs such as Dungeons & Dragons (retro ones), Lamentations of the Flame Princess, and Call of Cthulhu. Additionally, I develop tools to enhance the playing experience of these games. You can find these tools, along with recaps of our gaming sessions, in my repositories.
 
 <a href="https://www.codewars.com/users/Okto"><img src="https://www.codewars.com/users/Okto/badges/small" alt="Codewars profile" /></a>
 
